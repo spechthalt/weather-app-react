@@ -1,0 +1,12 @@
+.CityAndDate .current-city {
+  font-weight: 600;
+}
+
+.CityAndDate .date-time {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.CityAndDate .high-low {
+  font-size: 30px;
+}

@@ -1,0 +1,33 @@
+.Forecast .weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.Forecast .weather-forecast img {
+  margin: 0;
+}
+
+.Forecast .future-weather {
+  margin: 30px 0 30px;
+  font-weight: bold;
+  text-align: center;
+  justify-content: space-evenly;
+}
+
+.Forecast .weather-forcast-date {
+  margin-bottom: 25px;
+  font-size: 16px;
+  opacity: 0.6;
+}
+
+.Forecast .weather-forcast-temperatures {
+  font-size: 13px;
+}
+
+.Forecast .weather-forecast-min {
+  opacity: 0.6;
+}
+
+.Forecast .weather-forecast img {
+  margin: 0;
+}

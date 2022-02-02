@@ -1,0 +1,26 @@
+.Form .search-menu {
+  margin: 10px auto 50px;
+  justify-content: center;
+}
+
+.Form .search-bar {
+  padding: 10px 15px;
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+}
+
+.Form .menu-btn {
+  color: #006a71;
+  background: #fff;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 20%);
+  padding: 10px 20px;
+  transition: all 150ms ease-in-out;
+}
+
+.Form .menu-btn:hover {
+  background: #006a71;
+  color: #fff;
+}
