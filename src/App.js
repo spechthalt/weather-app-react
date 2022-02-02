@@ -1,5 +1,3 @@
-import logo from "./logo.svg";
-import "./App.css";
 import Form from "./Form";
 import MainInfo from "./MainInfo";
 import Credits from "./Credits";
